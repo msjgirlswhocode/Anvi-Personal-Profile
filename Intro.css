@@ -1,0 +1,48 @@
+
+h1 {
+  color:#612AA4;
+}
+
+#para1 {
+  color: #87ED14
+}
+#para2 {
+  color: #BFEA2C
+}
+
+body {
+  font-family: courier;
+  background-image: url("Ombre.jpg");
+  background-size: cover;
+
+}
+.textcont{
+  background-color: #E56206;
+
+}
+.imagecontainer{
+  background-color: #1CE9F0;
+  padding: 10px;
+  width: 240px
+}
+.maincontainer {
+  background-color: #FFF665;
+  padding: 10px;
+  justify-content: center;
+  width: 200px
+}
+
+.nav ul li{
+  width:100%;
+  float: center;
+  flex-direction: row;
+  display: inline-block;
+  height: 120px;
+  width: 120px;
+  background: white;
+  color: white;
+  opacity: 0;
+  color: DarkGreen;
+  font-size: 20px;
+  text-align: center;
+}
